@@ -1,0 +1,29 @@
+.home-container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .button-link {
+    margin-right: 10px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    background-color: #4895a5;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #16e2c0;
+  }
+  
